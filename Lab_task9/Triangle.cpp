@@ -1,5 +1,6 @@
-#include “Triangle.h”
-int Triangle::Area()
+#include "Triangle.h"
+
+int Triangle :: Area()
 {
-return mWidth * mHeight / 2;
+    return mWidth * mHeight / 2;
 }

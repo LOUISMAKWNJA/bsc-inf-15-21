@@ -1,5 +1,6 @@
-#include “Rectangle.h”
-int Rectangle:: Area()
+#include "Rectangle.h"
+
+int Rectangle :: Area()
 {
-return mWidth * mHeight;
+    return mWidth * mHeight;
 }
